@@ -3,7 +3,7 @@ const { number } = require('yargs');
 
 // Connect to MongoDB
 mongoose.connect(
-	'mongodb+srv://admin:7uP7XzQTV1ryT8Dj@cluster0.5godjds.mongodb.net/your-mongodb-url'
+	'Add Your DAtabase here'
 );
 
 // Define schemas
